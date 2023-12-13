@@ -1,0 +1,15 @@
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.csproj.AssemblyReference.cache
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.AssemblyInfoInputs.cache
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.AssemblyInfo.cs
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.csproj.CoreCompileInputs.cache
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/bin/Debug/net8.0/MVVMDataLayer.deps.json
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/bin/Debug/net8.0/MVVMDataLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/bin/Debug/net8.0/MVVMDataLayer.pdb
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/bin/Debug/net8.0/MVVMEntityLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/bin/Debug/net8.0/MVVMEntityLayer.pdb
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.csproj.CopyComplete
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/refint/MVVMDataLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/MVVMDataLayer.pdb
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMDataLayer/obj/Debug/net8.0/ref/MVVMDataLayer.dll

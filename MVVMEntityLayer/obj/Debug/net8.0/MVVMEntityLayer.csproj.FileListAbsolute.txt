@@ -1,0 +1,12 @@
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/bin/Debug/net8.0/MVVMEntityLayer.deps.json
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/bin/Debug/net8.0/MVVMEntityLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/bin/Debug/net8.0/MVVMEntityLayer.pdb
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.csproj.AssemblyReference.cache
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.AssemblyInfoInputs.cache
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.AssemblyInfo.cs
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.csproj.CoreCompileInputs.cache
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/refint/MVVMEntityLayer.dll
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/MVVMEntityLayer.pdb
+/home/atms/Documents/projects/csharp/MVVMTutorial/MVVMEntityLayer/obj/Debug/net8.0/ref/MVVMEntityLayer.dll
